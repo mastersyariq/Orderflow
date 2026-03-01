@@ -1,7 +1,20 @@
-OrderFlow & Heatmap Terminal
-Version 1.0.0
+OrderFlow & Heatmap Terminal (Prototype Static Website)
+Version 1.2.0
+Created by Mastersyariq using AI Studio with little changes from author
 
 This is a professional trading terminal for visualizing order flow and orderbook heatmaps.
 Data is provided by Bybit WebSocket API.
 
 Developed for advanced traders.
+
+HOW TO USE:
+- Your first screen display is on the heatmap page, to move pages click the button next to the button to change "pair" in the header section.
+- Also you can change pair do want to see and analys next to pages button.
+
+Lack of this platform:
+- The historical footprint table is incomplete, so you need to keep this platform open to get the data from when you first opened it.
+- This platform only take data form Bybit API, so it doesn't count any data from outside. Be carefull not to get liquidated.
+
+*IMPORTANT
+- This is my project terminal for individual use and for people who want to use it, if you feels this platform does't helpfully please close this platform and don't used!, cause may it risk your money...
+- If you have any feedback or bug/error issue just go to my github and write feedback in the 'issue' column.
