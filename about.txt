@@ -1,0 +1,7 @@
+OrderFlow & Heatmap Terminal
+Version 1.0.0
+
+This is a professional trading terminal for visualizing order flow and orderbook heatmaps.
+Data is provided by Bybit WebSocket API.
+
+Developed for advanced traders.
